@@ -1,0 +1,5 @@
+c Unsatisfiable test
+c x1 AND NOT x1 --impossible
+p cnf 1 2 
+1 0
+-1 0
